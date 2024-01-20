@@ -923,13 +923,13 @@ body{
     background: url(../images/icon/facebook.png);
 }
 
-.weibo_items{
+.bilibili_items{
     background:rgba(189,64,64,0.8);
 }
 
-.weibo_items a{
+.bilibili_items a{
     background-color:rgba(189,64,64,0.8);
-    background: url(../images/icon/weibo.png);
+    background: url(../images/icon/bilibili.png);
 }
 
 .zhihu_items{
@@ -942,13 +942,13 @@ body{
 }
 
 
-.blog_items{
-    background:rgba(153,0,102,0.8);
+.afdian_items{
+    background:rgba(180, 180, 180, 1.0);
 }
 
-.blog_items a{
-    background-color:rgba(153,0,102,0.8);
-    background: url(../favicon.ico);
+.afdian_items a{
+    background-color:rgba(180, 180, 180, 1.0);
+    background: url(../images/icon/afdian.png);
 }
 
 
