@@ -1,0 +1,20 @@
+{
+  "name": "实用软件源",
+  "version": "241002",
+  "Addons": [
+    {
+      "name": "JMComic",
+      "Author": "JM",
+      "Description": "懂的都懂",
+      "ICON": "https://pianoethan.github.io/Addon/icon/jmcomic.ico",
+      "url": "https://www.123pan.com/s/CsIdjv-ixpw3"
+    },
+    {
+      "name": "安卓融卡工具",
+      "Author": "酷安@Accepting",
+      "Description": "手机融卡不能控制大小？我能控！",
+      "ICON": "https://qinxian.wysteam.cn/Addon/icon/Rongka_Tool.ico",
+      "url": "https://www.123pan.com/s/CsIdjv-tUxw3.html"
+    }
+  ]
+}
